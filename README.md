@@ -10,8 +10,7 @@ In this project, you will use what you've learned about deep neural networks and
 
 We have provided a simulator where you can steer a car around a track for data collection. You'll use image data and steering angles to train a neural network and then use this model to drive the car autonomously around the track.
 
-For a detailed writeup of this project check out the [writeup template](./writeup.md) for this project and use it as a starting point for creating your own writeup. The writeup can be either a markdown file or a pdf document.
-
+For a detailed writeup of this project check out the [writeup template](./writeup.md).
 My project includes the following files:
 * Model.ipynb containing the script to create and train the model
 * mask.jpg the mask used as pre-processing for out model
